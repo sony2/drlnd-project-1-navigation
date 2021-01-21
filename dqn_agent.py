@@ -15,7 +15,6 @@ TAU = 1e-3              # for soft update of target parameters
 LR = 5e-4               # learning rate (Initially 5e-4)
 UPDATE_EVERY = 4        # how often to update the network
 
-
 class Agent():
     """Interacts with and learns from the environment."""
 
